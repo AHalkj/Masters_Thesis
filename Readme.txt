@@ -3,7 +3,7 @@ C:\repos\AHAKLWE\Model\svc
 and
 C:\repos\AHAKLWE\Model\extraction
 
-was made in part with cooperation with SimCorp Developers
+was made in part with cooperation with SimCorp
 
 C:\repos\AHAKLWE\Model\FSL_model\baseline
 
